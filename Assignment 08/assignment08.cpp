@@ -1,4 +1,4 @@
-// COPY CONSTRUCTOR - SHALLOW COPY AND DEEP COPY
+// Shallow Copy vs. Deep Copy
 
 #include <iostream>
 #include <string.h>

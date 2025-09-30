@@ -1,4 +1,4 @@
-// DYNAMIC MEMORY - SETTERS, GETTERS
+// Dynamic Memory with Getters and Setters
 
 #include <iostream>
 #include <string.h>

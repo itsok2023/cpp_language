@@ -1,4 +1,4 @@
-// CPP PROGRAM
+// Object Oriented Programming
 
 #include <iostream>
 #include <string.h>

@@ -1,4 +1,4 @@
-// CPP PROGRAM WITH DEFAULT CONSTRUCTOR AND PARAMETERIZED CONSTRUCTOR
+// Constructors in C++
 
 #include <iostream> 
 #include <string.h>

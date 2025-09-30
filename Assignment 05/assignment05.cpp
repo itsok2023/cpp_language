@@ -1,4 +1,4 @@
-// VALIDATION OF NAME AND AGE
+// Data Validation in Classes
 
 #include <iostream>
 #include <string.h>

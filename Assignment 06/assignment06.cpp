@@ -1,4 +1,4 @@
-//DYNAMIC MEMORY - CONSTRUCTOR, DESTRUCTOR, DISPLAY
+// Dynamic Memory and Destructors
 
 #include <iostream>
 #include <string.h>

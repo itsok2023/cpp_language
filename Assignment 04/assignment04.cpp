@@ -1,7 +1,9 @@
+//Encapsulation with Getters and Setters
+
 #include <iostream>
 #include <string.h> // For strcpy
 
-// It's good practice to use the std namespace
+
 using namespace std;
 
 class Person
@@ -25,34 +27,31 @@ public:
         strcpy(this->name, name);
     }
 
-    // --- SETTERS ---
-    // Set the value of the private 'age' variable
+
     void SetAge(int age)
     {
         this->age = age;
     }
 
-    // Set the value of the private 'name' variable
+   
     void SetName(const char *name)
     {
         strcpy(this->name, name);
     }
 
-    // --- GETTERS ---
-    // Get the value of the private 'age' variable
+   
     int GetAge()
     {
         return age;
     }
 
-    // Get the value of the private 'name' variable
-    // Returns a const char* to prevent external modification
+
     const char* GetName()
     {
         return name;
     }
 
-    // Display method to print object details
+   
     void display()
     {
         cout << "\nAge is : " << age;
