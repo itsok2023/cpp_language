@@ -66,3 +66,10 @@ This is meant to serve as a reference for students, beginners, and anyone learni
 
 ---
 
+### 📝 Assignment 9: Types of Inheritance
+> A comprehensive example demonstrating **single, multilevel, and hierarchical inheritance**. It builds a class hierarchy from `Person` to `Developer` and its subtypes, also showing the use of `protected` members and constructor chaining.
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](./Assignment%2009/assignment09.cpp)
+
+---
+
