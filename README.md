@@ -87,3 +87,19 @@ This is meant to serve as a reference for students, beginners, and anyone learni
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](./Assignment%2011/assignment11.cpp)
 
 ---
+
+### 📝 Assignment 12: Static Polymorphism (Function Overloading)
+> A program demonstrating **static polymorphism** through **function overloading**. The same function name, `greetUser`, is used for multiple methods with different parameter lists, and the correct one is chosen at compile-time.
+
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](./Assignment%2012/assignment12.cpp)
+
+---
+
+### 📝 Assignment 13: Dynamic Polymorphism (Function Overriding)
+> Demonstrates **dynamic polymorphism** by using a `virtual` function in a base class which is then **overridden** in a derived class, enabling the correct method to be called at runtime via a base class pointer.
+
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](./Assignment%2013/assignment13.cpp)
+
+---
