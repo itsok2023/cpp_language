@@ -73,3 +73,17 @@ This is meant to serve as a reference for students, beginners, and anyone learni
 
 ---
 
+### 📝 Assignment 10: Multiple Inheritance
+> A program that demonstrates **multiple inheritance**, where a derived class (`Add2Obj`) inherits from two separate base classes (`Base1`, `Base2`) to combine their attributes and functionality.
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](./Assignment%2010/assignment10.cpp)
+
+---
+
+### 📝 Assignment 11: Hybrid Inheritance (The Diamond Problem)
+> A program that resolves the **diamond problem** in hybrid inheritance (a mix of multiple and hierarchical) by using **virtual base classes** to avoid ambiguity.
+
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](./Assignment%2011/assignment11.cpp)
+
+---
